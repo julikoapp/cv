@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Anton|Caveat|Courgette|Cute+Font|Dancing+Script|Gloria+Hallelujah|Ibarra+Real+Nova|Inconsolata|Indie+Flower|Josefin+Sans|Kaushan+Script|Lobster|Ma+Shan+Zheng|Montserrat+Alternates|Montserrat+Subrayada|Neucha|Pacifico|Permanent+Marker|Playfair+Display+SC|Righteous|Satisfy|Shadows+Into+Light|Titillium+Web&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Domine|Play&display=swap');
+body{
+  background-color:whitesmoke;
+  background-size: cover;
+  color:black;
+  font-weight:550;
+  font-size: 24px;
+}
+.menu{
+  background-image: url("pop2.jpg") ;
+  padding: 15px 0;
+  text-align: center;
+  width: 100%;
+}
+li.men{
+  display: inline-block;
+  list-style-type: none;
+  padding:0px 10px;
+}
+li a{
+  text-decoration: none;
+  color:	darkblue;
+  font-size: 17px;
+  font-weight: 1000;
+  font-family: 'Play', sans-serif;
+}
+
+li {
+    font-family: 'Permanent Marker', cursive;
+}
+
+textarea {
+  width: 250px;
+  height: 100px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color:	mintcream;
+  font-size: 16px;
+  resize: none;
+}
+input {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+img{
+    padding:100px;
+    padding-left: 400px;
+}
+
+.pret {
+  font-size: 24px;
+  font-style: italic;
+  font-weight: bold;
+}
+table{
+  border-spacing: 10px;
+}
+input {
+  background-color:	slategray;
+  border: none;
+  color: white;
+  padding:15px 15px;
+  text-decoration: none;
+  margin:10px   ;
+  cursor: pointer;
+  font-size:18px;
+}
+
+blockquote{
+    font-size: 35px;
+    font-family: 'Indie Flower', cursive;
+    text-align: right;
+    padding:0px;
+    font-weight: ;
+}

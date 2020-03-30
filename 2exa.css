@@ -1,0 +1,94 @@
+
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Anton|Caveat|Courgette|Cute+Font|Dancing+Script|Gloria+Hallelujah|Ibarra+Real+Nova|Indie+Flower|Josefin+Sans|Kaushan+Script|Lobster|Montserrat+Alternates|Montserrat+Subrayada|Neucha|Pacifico|Permanent+Marker|Playfair+Display+SC|Righteous|Satisfy|Shadows+Into+Light|Titillium+Web&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif&display=swap');
+body{
+  background-image:
+  background-color:darkgray;
+    color:darkslategray;
+    font-family: cursive;
+
+}
+h3{
+    color:black;
+    font-weight: 590;
+    font-size:34px;
+}
+p.liko{
+  position: relative;
+
+  font-family: 'Caveat', cursive;
+
+  font-size: 4.5em;
+  font-weight: 550;
+    text-align: center;
+    padding: 230px;
+}
+p.block{
+
+ font-family: 'Neucha', cursive;
+
+
+  color:steelblue;
+  padding-top: 50px;
+    padding: 40px;
+  position: relative;
+  font-size: 2.5em;
+  font-weight: 700;
+  text-align: center;
+  padding-bottom: 0px;
+
+}
+
+h2{
+    color:lightcoral;
+    font-size: 40px;
+    font-family: 'Montserrat Alternates', sans-serif;
+
+}
+
+
+
+.norm{
+    color:	lightcoral;
+    font-size: 35px;
+    font-weight: 450;
+    text-align: left;
+
+
+    font-family: 'Amatic SC', cursive;
+
+}
+img.rig{
+   padding-left:50px;
+}
+img.rg{
+    padding-left:90px;
+}
+
+.pred{
+    font-family: 'Amatic SC', cursive;
+    font-size: 35px;
+    font-weight: 450;
+    color:	lightcoral;
+
+}
+h2.centr{
+    padding-top:50px;
+    text-align: center;
+}
+blockquote{
+   font-family: 'Indie Flower', cursive;
+    font-size: 35px;
+    font-weight: ;
+}
+input {
+  background-color:	slategray;
+  border: none;
+  color: white;
+  padding:60px 60px;
+  text-decoration: none;
+  margin:40px   ;
+  cursor: pointer;
+  font-size:30px;
+  font-family: 'Noto Serif', serif;
+}
